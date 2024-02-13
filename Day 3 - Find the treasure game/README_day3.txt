@@ -1,6 +1,6 @@
 This code is to train flow control in Python
 
-I chose a more complex way than what the course proposes.
+Originally, the game is pretty simple and straightfoward, so i decided to spice things up.
 
 On "main.py" you can find the flow of the game and inside each other .py file you find every action you can make at the locations of the game.
 
