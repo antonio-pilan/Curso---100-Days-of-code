@@ -14,4 +14,5 @@ Each Python project have the name on it, but i'll set here all codes, then it'll
 <ol>
 	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%201%20-%20Your%20band%20name">Day one: Your Band Name (Beginner) </a></li>
 	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%202%20-%20Tip%20Calulator">Day two: Tip Calculator (Beginner) </a></li>
+	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%203%20-%20Find%20the%20treasure%20game">Day three: Treasure hunt (Beginner) </a></li>
 </ol>
