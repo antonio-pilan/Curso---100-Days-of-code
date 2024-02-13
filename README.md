@@ -1,6 +1,4 @@
-# Curso_100_days_of_code
- 
-<h1>Hello!</h1>
+ <h1>Hello!</h1>
 
 Welcome to one of <strong>my learning repositories here on GitHub!</strong> Here, i sync my "100 Days of Code: The Complete Python Bootcamp" projects. <br>
 
@@ -14,6 +12,6 @@ Everything is Synchronized with GitHub as a way to also learn git frameworks, so
 Each Python project have the name on it, but i'll set here all codes, then it'll be easier to find whatever you look for:
 
 <ol>
-	<li>Day one: Your Band Name (Beginner) </li>
-	<li>Day two: Tip Calculator (Beginner) </li>
+	<li href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%201%20-%20Your%20band%20name">Day one: Your Band Name (Beginner) </li>
+	<li href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%202%20-%20Tip%20Calulator">Day two: Tip Calculator (Beginner) </li>
 </ol>
