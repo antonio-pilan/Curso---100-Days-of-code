@@ -1,0 +1,1 @@
+A simple code to operate with strings in Python
