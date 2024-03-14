@@ -10,6 +10,7 @@ player = list("_" * len(word))
 hangman = ""
 test = "hangman"
 c = 0
+last = 0
 
 while gameover == False:
     print("Guess the word: ", end='')
@@ -23,7 +24,7 @@ while gameover == False:
     i=0
     check=0
     while i < len(player):
-        if word[i] == choice:
+        if word[i] == choice.lower():
             player[i] = choice
         else:
             check += 1
@@ -32,6 +33,9 @@ while gameover == False:
     if check == len(player):
         hangman += test[c]
         c += 1
+        last = 1
+    elif check != len(player):
+        last = 2
     
     if c == 7:
         gameover = "you lose"
@@ -42,4 +46,23 @@ while gameover == False:
     
 
     os.system("cls")
+    if last == 1:
+        print("wrong...")
+    elif last == 2:
+        print("ok...")
+    elif last == 0:
+        continue
+    
+print("Guess the word: ", end='')
+for letter in player:
+    print(f"{letter} ", end='')
+
+print(f"\n\nwatch out... {hangman}\n\n")
 print(gameover)
+
+choice = input("Would you like to add new word? y/n \n")
+
+if choice.lower() =="y":
+    functions.add_word()
+    
+print("See ya")

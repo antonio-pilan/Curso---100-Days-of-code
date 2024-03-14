@@ -1,1 +1,1 @@
-word,banana,dinossaur,velociraptor, nemo
+word,banana,dinossaur,velociraptor,nemo,triceps,biceps
