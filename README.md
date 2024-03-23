@@ -19,6 +19,6 @@ Each Python project have the name on it, but i'll set here all codes, then it'll
 	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%205%20-%20Password%20Generator">Day five: Password Generator (Beginner) </a></li>
 	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%206%20-%20Karel%2C%20the%20Robot">Day six: Karel, the robot (Reeborgs world) (Beginner) </a></li>
 	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%207%20-%20Hangman">Day seven: Hangman (Beginner) </a></li>
-	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%208%20-%20Caesar%20Cipher">Day seven: Hangman (Beginner) </a></li>
+	<li> <a href="https://github.com/antonio-pilan/Curso---100-Days-of-code/tree/main/Day%208%20-%20Caesar%20Cipher">Day eight: Caesar Cipher (Beginner)</a></li>
 </ol>
 
